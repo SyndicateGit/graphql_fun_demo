@@ -44,3 +44,5 @@ group :development, :test do
 
   gem "faker"
 end
+
+gem "sprockets-rails", "~> 3.5"
